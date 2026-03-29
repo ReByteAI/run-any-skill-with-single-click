@@ -66,6 +66,32 @@ Turn any dataset into beautiful, interactive charts and visualizations. Force-di
 
 ---
 
+### Visual Explainer — Complex Output, Beautiful HTML
+
+Stop squinting at terminal output. This skill turns messy logs, diffs, data tables, and architecture diagrams into styled, interactive HTML pages with real typography, dark/light themes, and Mermaid diagrams. By Nico Bailon.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20visual-explainer%20skill%20from%20github.com%2Fnicobailon%2Fvisual-explainer.%20Analyze%20the%20architecture%20of%20the%20github.com%2Fanthropics%2Fclaude-code%20repo%20and%20create%20a%20beautiful%20HTML%20page%20with%20Mermaid%20diagrams%20showing%20the%20module%20structure%2C%20data%20flow%2C%20and%20key%20components.%20Deploy%20it." target="_blank"><img src="https://raw.githubusercontent.com/ReByteAI/run-any-skill-with-single-click/main/badge-v3.svg" alt="Run on Rebyte"></a>
+
+---
+
+### WebGPU — 3D Graphics in the Browser
+
+Build GPU-accelerated 3D applications with Three.js and WebGPU. Shader development, node-based materials, compute shaders, post-processing — real-time 3D right in the browser. By Daniel Greenheck.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20webgpu-claude-skill%20from%20github.com%2Fdgreenheck%2Fwebgpu-claude-skill.%20Create%20an%20interactive%203D%20solar%20system%20simulation%20with%20realistic%20planet%20textures%2C%20orbital%20paths%2C%20and%20a%20glowing%20sun%20using%20WebGPU%20shaders.%20Deploy%20it." target="_blank"><img src="https://raw.githubusercontent.com/ReByteAI/run-any-skill-with-single-click/main/badge-v3.svg" alt="Run on Rebyte"></a>
+
+---
+
+## 🧠 AI & Prompting
+
+### Prompt Master — Get It Right on the First Try
+
+Stop wasting tokens on vague prompts. This skill analyzes your intent, detects "credit-killing patterns", and rewrites your prompt to work first try — across Claude, ChatGPT, Midjourney, coding agents, and 30+ AI tools. By Nidhin JS.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20prompt-master%20skill%20from%20github.com%2Fnidhinjs%2Fprompt-master.%20I%20want%20to%20create%20a%20Midjourney%20prompt%20for%20a%20cinematic%20product%20photo%20of%20a%20luxury%20watch%20on%20a%20marble%20surface%20with%20dramatic%20lighting.%20Optimize%20the%20prompt%20for%20maximum%20quality." target="_blank"><img src="https://raw.githubusercontent.com/ReByteAI/run-any-skill-with-single-click/main/badge-v3.svg" alt="Run on Rebyte"></a>
+
+---
+
 ## 📚 Documents
 
 ### EPUB — Turn Anything Into an Ebook
