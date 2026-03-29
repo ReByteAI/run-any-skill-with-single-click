@@ -58,6 +58,14 @@ Create beautiful slide decks from markdown. Animations, code highlighting, diagr
 
 ---
 
+### D3.js — Interactive Data Visualizations
+
+Turn any dataset into beautiful, interactive charts and visualizations. Force-directed graphs, animated transitions, geographic maps, real-time dashboards — all rendered in the browser. By Chris von Csefalvay.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20data-scraper%20skill%20and%20the%20claude-d3js-skill%20from%20github.com%2Fchrisvoncsefalvay%2Fclaude-d3js-skill.%20Scrape%20the%20top%2030%20programming%20languages%20by%20popularity%20from%20the%20TIOBE%20index%2C%20then%20create%20an%20interactive%20D3.js%20visualization%20%E2%80%94%20a%20zoomable%20treemap%20showing%20market%20share%20by%20language%20family.%20Deploy%20it." target="_blank"><img src="https://raw.githubusercontent.com/ReByteAI/run-any-skill-with-single-click/main/badge-v3.svg" alt="Run on Rebyte"></a>
+
+---
+
 ## 📚 Documents
 
 ### EPUB — Turn Anything Into an Ebook
