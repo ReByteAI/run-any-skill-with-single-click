@@ -42,6 +42,14 @@ Point it at any measurable metric — test coverage, performance, code quality, 
 
 ---
 
+### Slidev — Presentations as Code
+
+Create beautiful slide decks from markdown. Animations, code highlighting, diagrams, themes — all version-controlled and exportable to PDF. The official skill from the Slidev team.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20slidev%20skill%20from%20github.com%2Fslidevjs%2Fslidev.%20Create%20a%2015-slide%20presentation%20on%20%22The%20Future%20of%20AI%20Agents%22%20with%20code%20examples%2C%20diagrams%2C%20and%20animations.%20Deploy%20it." target="_blank"><img src="https://img.shields.io/badge/▶_Run_on_Rebyte-D4A654?style=for-the-badge" alt="Run on Rebyte"></a>
+
+---
+
 ## 📚 Documents
 
 ### EPUB — Turn Anything Into an Ebook
