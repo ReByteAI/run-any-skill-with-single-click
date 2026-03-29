@@ -42,6 +42,16 @@ Point it at any measurable metric — test coverage, performance, code quality, 
 
 ---
 
+## 📚 Documents
+
+### EPUB — Turn Anything Into an Ebook
+
+Research a topic, write it up, and get a publication-ready EPUB you can read on Kindle, Apple Books, or any e-reader. Automatic chapter detection, table of contents, and professional formatting. By Scott Merchek.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20claude-epub-skill%20from%20github.com%2Fsmerchek%2Fclaude-epub-skill.%20Research%20%22the%20history%20of%20Silicon%20Valley%22%20and%20create%20a%20well-structured%20EPUB%20ebook%20with%20chapters%20and%20table%20of%20contents." target="_blank"><img src="https://img.shields.io/badge/▶_Run_on_Rebyte-D4A654?style=for-the-badge" alt="Run on Rebyte"></a>
+
+---
+
 ## How It Works
 
 1. **Click a button** — opens Rebyte with the skill and prompt pre-loaded
