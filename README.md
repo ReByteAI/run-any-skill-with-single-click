@@ -24,6 +24,24 @@ Real-time price data, technical indicators, SEC filings, earnings analysis, anal
 
 ---
 
+## 🛠 Build & Ship
+
+### gstack — A Virtual Engineering Team
+
+One person shipping at 20-person team velocity. gstack gives your agent specialized roles — CEO, designer, engineer, QA lead, release manager — and runs them through a structured sprint: Think, Plan, Build, Review, Test, Ship. By Garry Tan.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20gstack%20skill%20from%20github.com%2Fgarrytan%2Fgstack.%20Build%20a%20simple%20URL%20shortener%20web%20app%20with%20analytics.%20Run%20the%20full%20sprint%20%E2%80%94%20plan%2C%20build%2C%20review%2C%20test%2C%20and%20deploy." target="_blank"><img src="https://img.shields.io/badge/▶_Run_on_Rebyte-D4A654?style=for-the-badge" alt="Run on Rebyte"></a>
+
+---
+
+### Autoresearch — Autonomous Improvement Loop
+
+Point it at any measurable metric — test coverage, performance, code quality, security — and it iteratively improves your code in a loop. Commits wins, auto-reverts failures. Inspired by Karpathy's autoresearch. By Udit Goenka.
+
+<a href="https://app.rebyte.ai/new?prompt=Use%20the%20autoresearch%20skill%20from%20github.com%2Fuditgoenka%2Fautoresearch.%20Clone%20a%20sample%20Node.js%20project%20and%20autonomously%20improve%20its%20test%20coverage%20from%20current%20baseline%20to%2090%25%2B." target="_blank"><img src="https://img.shields.io/badge/▶_Run_on_Rebyte-D4A654?style=for-the-badge" alt="Run on Rebyte"></a>
+
+---
+
 ## How It Works
 
 1. **Click a button** — opens Rebyte with the skill and prompt pre-loaded
