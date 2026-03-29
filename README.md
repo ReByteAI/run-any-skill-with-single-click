@@ -1,4 +1,4 @@
-# Run Any Skill ⚡
+# Run Any Skill With Single Click ⚡
 
 **Click a button. An AI agent runs it in the cloud. No setup needed.**
 
